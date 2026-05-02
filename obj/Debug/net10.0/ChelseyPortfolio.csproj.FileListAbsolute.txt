@@ -207,9 +207,6 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.a0nw1suthv.wasm
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.e1pn4gp1jq.pdb
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\dotnet.oharow8zll.js
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.1l4onz0xjo.wasm.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.nyb7ae3bsc.wasm.gz
@@ -418,9 +415,6 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.a0nw1suthv.wasm.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.e1pn4gp1jq.pdb.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\dotnet.oharow8zll.js.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\ChelseyPortfolio.staticwebassets.runtime.json
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\ChelseyPortfolio.staticwebassets.endpoints.json
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\ChelseyPortfolio.dll
@@ -854,7 +848,6 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\dotnet.js
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\d0wo34vi7v.html
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\f9o902iofb-{0}-99zm1jdh75-99zm1jdh75.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\1ba8ief17d-{0}-nk9bgqz024-nk9bgqz024.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\ur0yje2fll-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\2y0e7myt0c-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\uskp72uwc7-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -901,8 +894,6 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\ydoog8lox4-{0}-obt0y6yizd-obt0y6yizd.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\e4eiiwpuqd-{0}-iag0ou56lh-iag0ou56lh.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\e4h2wdlgvc-{0}-66stpp682q-66stpp682q.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\vp9t1nr2jl-{0}-crv609nqqq-crv609nqqq.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\f00f7tuvnm-{0}-crv609nqqq-crv609nqqq.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\dc75jzvo2i-{0}-1l4onz0xjo-1l4onz0xjo.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\c27ddyvamf-{0}-nyb7ae3bsc-nyb7ae3bsc.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\wmdzcxby8w-{0}-ij454jqrom-ij454jqrom.gz
@@ -1110,10 +1101,6 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\0109psindd-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\vcl26yvgny-{0}-tptq2av103-tptq2av103.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\2950l9vdj1-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\pf313uxavx-{0}-a0nw1suthv-a0nw1suthv.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\pewfh4gimw-{0}-e1pn4gp1jq-e1pn4gp1jq.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\g4bkji3dd7-{0}-oharow8zll-oharow8zll.gz
-C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\k0gqfr1bg1-{0}-by0y3qg9ux-by0y3qg9ux.gz
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -1124,3 +1111,18 @@ C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\refint\ChelseyPortfolio.dll
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\ChelseyPortfolio.pdb
 C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\ref\ChelseyPortfolio.dll
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.03whbqoa20.wasm
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.zodkarr9z1.pdb
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\dotnet.m9vjp2imjt.js
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.03whbqoa20.wasm.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\ChelseyPortfolio.zodkarr9z1.pdb.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\bin\Debug\net10.0\wwwroot\_framework\dotnet.m9vjp2imjt.js.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\ChelseyPortfolio.sourcelink.json
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\1ba8ief17d-{0}-wosj3fxwze-wosj3fxwze.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\70e1gedzaj-{0}-ttr9l05vpo-ttr9l05vpo.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\vp9t1nr2jl-{0}-17qy6kbuhs-17qy6kbuhs.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\f00f7tuvnm-{0}-17qy6kbuhs-17qy6kbuhs.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\pf313uxavx-{0}-03whbqoa20-03whbqoa20.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\pewfh4gimw-{0}-zodkarr9z1-zodkarr9z1.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\g4bkji3dd7-{0}-m9vjp2imjt-m9vjp2imjt.gz
+C:\Users\LukeShort\Downloads\chelsey-portfolio\ChelseyPortfolio\obj\Debug\net10.0\compressed\k0gqfr1bg1-{0}-tuznt2hphy-tuznt2hphy.gz

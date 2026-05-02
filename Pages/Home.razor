@@ -1,7 +1,253 @@
-﻿@page "/"
+@page "/"
+@inject IJSRuntime JSRuntime
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Chelsey Short &mdash; ICU RN turned Health Tech Engineer</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursor-ring"></div>
 
-Welcome to your new app.
+<nav>
+    <a href="#" class="logo">Chelsey Short</a>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section id="hero">
+    <div class="hero-left">
+        <p class="hero-tag">ICU RN &mdash; Health Tech Engineer</p>
+        <h1>Chelsey<br /><em>Short</em></h1>
+        <p class="hero-desc">
+            I spent years at the bedside in intensive care. Now I build the software
+            that powers clinical teams &mdash; with the perspective of someone who&rsquo;s actually
+            used it under pressure.
+        </p>
+        <a href="#projects" class="hero-cta">View my work</a>
+    </div>
+    <div class="hero-right">
+        <span class="big-initial">CS</span>
+        <div class="hero-right-inner">
+            <div class="hero-stat-grid">
+                <div class="hero-stat">
+                    <span class="num">ICU</span>
+                    <span class="label">Clinical Background</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="num">RN</span>
+                    <span class="label">Licensed Nurse</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="num">.NET</span>
+                    <span class="label">Primary Stack</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="num">EHR</span>
+                    <span class="label">Target Domain</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="presentation">
+    <div class="section-label">In her own words</div>
+    <h2>Meet <em>Chelsey</em></h2>
+    <div class="video-wrapper fade-up">
+        <video src="presentation.mp4" autoplay muted loop playsinline controls></video>
+    </div>
+</section>
+
+<section id="about">
+    <div class="about-left fade-up">
+        <div class="about-portrait">
+            <div class="about-portrait-fill">
+                <span class="portrait-initials">CS</span>
+            </div>
+        </div>
+    </div>
+    <div class="about-right">
+        <div class="section-label">About me</div>
+        <h2>Nurse first.<br /><em>Engineer</em> now.</h2>
+        <br /><br />
+        <p>
+            I spent years as an ICU RN &mdash; managing vents, drips, and deteriorating patients &mdash; and learned
+            firsthand that bad software costs more than time. It costs patient safety. That experience
+            is the reason I write code.
+        </p>
+        <p>
+            Transitioning into health tech engineering means I bring something most developers don&rsquo;t have:
+            I&rsquo;ve sat at the workstation at 3am trying to find a lab value in six clicks when one would do.
+            I know what clinical workflows actually look like, and I build accordingly.
+        </p>
+        <p>
+            My target is companies like <strong>Epic, Oracle Health, Meditech, or AWS HealthLake</strong> &mdash;
+            places where clinical domain expertise and software engineering ability compound each other.
+            Right now I&rsquo;m building that foundation through <strong>EpicPetEMR</strong>, a full EMR system
+            in Blazor/.NET, and getting deep into AWS cloud architecture.
+        </p>
+        <p>
+            Based in West Virginia with my partner Luke, a rotating cast of dogs, and a strong opinion
+            about how EMR UI should actually work.
+        </p>
+    </div>
+</section>
+
+<section id="skills">
+    <div class="section-label">What I work with</div>
+    <h2>Skills &amp; <em>Domain Expertise</em></h2>
+    <div class="skills-grid">
+        <div class="skill-card fade-up">
+            <div class="skill-card-num">01</div>
+            <h3>Clinical Domain Knowledge</h3>
+            <p>Years as an ICU nurse give me fluency in clinical workflows, patient data models,
+            order entry, documentation burden, and the places EHR systems fail nurses and
+            physicians daily. I build software that reflects how care actually happens.</p>
+            <div class="skill-tags">
+                <span class="skill-tag">Critical Care</span>
+                <span class="skill-tag">ICU Workflows</span>
+                <span class="skill-tag">Clinical Documentation</span>
+                <span class="skill-tag">Patient Safety</span>
+                <span class="skill-tag">EHR UX</span>
+            </div>
+        </div>
+        <div class="skill-card fade-up">
+            <div class="skill-card-num">02</div>
+            <h3>Health Tech Engineering</h3>
+            <p>Building EMR-style systems from scratch in Blazor and .NET. Familiar with HL7/FHIR
+            data standards, clinical data modeling, and the access control patterns that
+            healthcare software demands.</p>
+            <div class="skill-tags">
+                <span class="skill-tag">C# / .NET</span>
+                <span class="skill-tag">Blazor WASM</span>
+                <span class="skill-tag">FHIR / HL7</span>
+                <span class="skill-tag">REST APIs</span>
+                <span class="skill-tag">JWT Auth</span>
+            </div>
+        </div>
+        <div class="skill-card fade-up">
+            <div class="skill-card-num">03</div>
+            <h3>Cloud Infrastructure</h3>
+            <p>Learning AWS with a focus on healthcare-relevant services &mdash; HIPAA-eligible
+            infrastructure, cloud storage, serverless compute, and the architectural patterns
+            that underpin platforms like Epic on AWS.</p>
+            <div class="skill-tags">
+                <span class="skill-tag">AWS</span>
+                <span class="skill-tag">IAM</span>
+                <span class="skill-tag">EC2 / S3</span>
+                <span class="skill-tag">Lambda</span>
+                <span class="skill-tag">HealthLake</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="projects">
+    <div class="section-label">Selected work</div>
+    <h2>Projects &amp; <em>Builds</em></h2>
+    <div class="projects-grid">
+        <a href="#" class="project-card fade-up">
+            <div class="project-card-bg"></div>
+            <div class="project-card-content">
+                <p class="project-cat">Healthcare Software</p>
+                <h3 class="project-title">EpicPetEMR</h3>
+                <p class="project-desc">A full-stack veterinary EMR application built in Blazor WebAssembly with a
+                .NET API backend. Features JWT auth, family/pet records, and a clean clinical workflow.</p>
+            </div>
+            <div class="project-arrow">&#x2197;</div>
+        </a>
+        <a href="#" class="project-card fade-up">
+            <div class="project-card-bg"></div>
+            <div class="project-card-content">
+                <p class="project-cat">Cloud Architecture</p>
+                <h3 class="project-title">AWS Learning Lab</h3>
+                <p class="project-desc">Hands-on infrastructure experiments: serverless functions, S3 static hosting,
+                IAM policy design, and VPC networking as practical study alongside cloud cert prep.</p>
+            </div>
+            <div class="project-arrow">&#x2197;</div>
+        </a>
+        <a href="#" class="project-card fade-up">
+            <div class="project-card-bg"></div>
+            <div class="project-card-content">
+                <p class="project-cat">API Design</p>
+                <h3 class="project-title">REST API Patterns</h3>
+                <p class="project-desc">Exploring clean RESTful API design in .NET &mdash; authentication flows,
+                resource modeling, versioning strategies, and response shaping for real-world client consumption.</p>
+            </div>
+            <div class="project-arrow">&#x2197;</div>
+        </a>
+        <a href="#" class="project-card fade-up">
+            <div class="project-card-bg"></div>
+            <div class="project-card-content">
+                <p class="project-cat">Data &amp; Persistence</p>
+                <h3 class="project-title">Database Design</h3>
+                <p class="project-desc">Relational schema work for the EpicPetEMR system &mdash; entity relationships,
+                migration strategies, JSON serialization, and enum handling across model boundaries.</p>
+            </div>
+            <div class="project-arrow">&#x2197;</div>
+        </a>
+    </div>
+</section>
+
+<section id="experience">
+    <div class="section-label">Background</div>
+    <h2>Experience &amp; <em>Education</em></h2>
+    <div class="timeline">
+        <div class="timeline-item fade-up">
+            <div class="timeline-date">2024 &ndash; Present</div>
+            <div class="timeline-body">
+                <h3>Cloud Engineering</h3>
+                <div class="company">Self-Directed / AWS</div>
+                <p>Deep-diving into Amazon Web Services &mdash; studying for certifications, building small projects
+                in AWS accounts, and applying cloud concepts to real software architectures.</p>
+            </div>
+        </div>
+        <div class="timeline-item fade-up">
+            <div class="timeline-date">2024 &ndash; Present</div>
+            <div class="timeline-body">
+                <h3>Lead Developer, EpicPetEMR</h3>
+                <div class="company">Personal Project</div>
+                <p>Designing and building a veterinary electronic medical records system using Blazor WASM,
+                ASP.NET Core Web API, and a SQL backend. Sole architect, frontend, and backend developer.</p>
+            </div>
+        </div>
+        <div class="timeline-item fade-up">
+            <div class="timeline-date">Ongoing</div>
+            <div class="timeline-body">
+                <h3>Software Development</h3>
+                <div class="company">West Virginia</div>
+                <p>Building full-stack applications, learning modern software engineering practices, and growing
+                as a developer through real projects that solve real problems.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="section-label">Get in touch</div>
+    <h2>Let&rsquo;s <em>work</em><br />together.</h2>
+    <a href="mailto:chelsey@example.com" class="contact-email-big">chelsey&#64;example.com</a>
+    <div class="contact-links">
+        <a href="#" class="contact-link">GitHub</a>
+        <a href="#" class="contact-link">LinkedIn</a>
+        <a href="#" class="contact-link">Resume</a>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2025 Chelsey Short</p>
+    <p>Cloud &amp; Software Engineer &mdash; West Virginia</p>
+</footer>
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("initPortfolio");
+        }
+    }
+}

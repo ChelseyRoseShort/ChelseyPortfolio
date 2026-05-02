@@ -4,10 +4,12 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ChelseyPortfolio</title>
+    <title>Chelsey Short &mdash; ICU RN turned Health Tech Engineer</title>
     <base href="/" />
-    <link href="_framework/dotnet.oharow8zll.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-3EXzlnCpETEbE1D0erdo6Tt7aJQIZEGYapkTiXZ93jw=" />
-    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="_framework/dotnet.m9vjp2imjt.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-CsbzKCoTpbdJr9vYm7lVJhIZD8GwZCkvVoOK0csNBiY=" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:wght@300;400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="ChelseyPortfolio.styles.css" rel="stylesheet" />
@@ -15,9 +17,10 @@
   "imports": {
     "./_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.lib.module.js": "./_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js",
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.m9vjp2imjt.js",
     "./_framework/dotnet.native.js": "./_framework/dotnet.native.69poregybn.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.oharow8zll.js",
     "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.q5rqv3xrhm.js",
+    "./js/portfolio.js": "./js/portfolio.ttr9l05vpo.js",
     "./lib/bootstrap/dist/js/bootstrap.bundle.js": "./lib/bootstrap/dist/js/bootstrap.bundle.iwpo2w8o86.js",
     "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "./lib/bootstrap/dist/js/bootstrap.bundle.min.493y06b0oq.js",
     "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "./lib/bootstrap/dist/js/bootstrap.esm.min.jj8uyg4cgr.js",
@@ -31,12 +34,14 @@
     "./_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.lib.module.js": "sha256-A8e6zZwhOqf7lDQqbbCYcAUv4wGE9aQxOo4WyYxR//0=",
     "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
     "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
-    "./_framework/dotnet.js": "sha256-3EXzlnCpETEbE1D0erdo6Tt7aJQIZEGYapkTiXZ93jw=",
+    "./_framework/dotnet.js": "sha256-CsbzKCoTpbdJr9vYm7lVJhIZD8GwZCkvVoOK0csNBiY=",
+    "./_framework/dotnet.m9vjp2imjt.js": "sha256-CsbzKCoTpbdJr9vYm7lVJhIZD8GwZCkvVoOK0csNBiY=",
     "./_framework/dotnet.native.69poregybn.js": "sha256-JvdIvkSF0x6euoPT2QnQSMg2Gyv2oJbFeBi1XmWLYFU=",
     "./_framework/dotnet.native.js": "sha256-JvdIvkSF0x6euoPT2QnQSMg2Gyv2oJbFeBi1XmWLYFU=",
-    "./_framework/dotnet.oharow8zll.js": "sha256-3EXzlnCpETEbE1D0erdo6Tt7aJQIZEGYapkTiXZ93jw=",
     "./_framework/dotnet.runtime.js": "sha256-ArknccFM1sHNVcih0x1h52AG+abNCoQjl6BlVrv3ePw=",
     "./_framework/dotnet.runtime.q5rqv3xrhm.js": "sha256-ArknccFM1sHNVcih0x1h52AG+abNCoQjl6BlVrv3ePw=",
+    "./js/portfolio.js": "sha256-ITqv9E0OTewtB3JeBlJtPXLFLOzooe5J2ZLN5sZtCHU=",
+    "./js/portfolio.ttr9l05vpo.js": "sha256-ITqv9E0OTewtB3JeBlJtPXLFLOzooe5J2ZLN5sZtCHU=",
     "./lib/bootstrap/dist/js/bootstrap.bundle.iwpo2w8o86.js": "sha256-ItsH+WxHbCRBanvk7daRF+6VkIlldGi4UwLlFyBfO0Y=",
     "./lib/bootstrap/dist/js/bootstrap.bundle.js": "sha256-ItsH+WxHbCRBanvk7daRF+6VkIlldGi4UwLlFyBfO0Y=",
     "./lib/bootstrap/dist/js/bootstrap.bundle.min.493y06b0oq.js": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
@@ -65,9 +70,10 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+        <span class="dismiss">&#x1F5D9;</span>
     </div>
     <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
+    <script src="js/portfolio.js"></script>
 </body>
 
 </html>

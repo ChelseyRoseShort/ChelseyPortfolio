@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "ChelseyPortfolio",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-UUqMvUcUIMAYkiSBWUmc89cLx21ZCmtO9BC7vVueO4Y=",
+    "hash": "sha256-f4R1LlDtIKAiTWeWjR1A2Hk6zFd6Zp/t50Gu80mu4fg=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.69poregybn.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "ChelseyPortfolio.wasm",
-        "name": "ChelseyPortfolio.a0nw1suthv.wasm",
-        "integrity": "sha256-eu0YuS1fF1kS3BzF24EIjuTVdV5qZeUAe9ibSrlPO8k=",
+        "name": "ChelseyPortfolio.03whbqoa20.wasm",
+        "integrity": "sha256-VLC6opMGwW3PfY3XMM5Td0RalShUMo6EFckpR2sS5Jk=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "ChelseyPortfolio.pdb",
-        "name": "ChelseyPortfolio.e1pn4gp1jq.pdb",
-        "integrity": "sha256-gnIjUJDm/98knMNgDaf14MyEDxHtWVQjNYuuCVHK3iY=",
+        "name": "ChelseyPortfolio.zodkarr9z1.pdb",
+        "integrity": "sha256-Uwg82a82ICIyu4YBeLLRBCPQ3vUb/G+AdVM3trjeUuo=",
         "cache": "force-cache"
       }
     ],
